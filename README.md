@@ -1,2 +1,2 @@
 # Data-Science
-Mini projetos de Data Science :mag: :bar_chart:
+Projetos de estudo - Data Science :mag: :bar_chart:
