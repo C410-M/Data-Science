@@ -1,0 +1,95 @@
+body {
+    background-color: #1f2630;
+    color: #FFFFFF;
+}
+
+.dash-graph {
+    background-color: #1f2630;
+}
+
+.dash-graph > div {
+    background-color: #1f2630;
+}
+
+.dash-graph svg {
+    background-color: #1f2630;
+}
+
+.dash-graph .plotly-graph-div {
+    background-color: #1f2630;
+}
+
+.dash-graph .main-svg .bg {
+    fill: #1f2630;
+}
+
+.dash-graph .main-svg .axis path,
+.dash-graph .main-svg .axis line {
+    stroke: #FFFFFF;
+}
+
+.dash-graph .main-svg .plot g > path,
+.dash-graph .main-svg .plot g > rect {
+    fill-opacity: 1 !important;
+    stroke-width: 0;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .points path {
+    stroke-width: 2;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .points circle {
+    fill-opacity: 1;
+    stroke-width: 0;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .points circle.hover {
+    stroke-width: 2;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .legendtoggle {
+    stroke-width: 2;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .legendtoggle:hover {
+    stroke-width: 3;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .text,
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .name-text {
+    fill: #FFFFFF;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .line {
+    stroke-width: 2;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .fill {
+    fill-opacity: 0.5;
+    stroke-width: 0;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .fill.hover {
+    stroke-width: 2;
+}
+
+.dash-graph .main-svg .legend .scrollbox .main-svg .trace.scatter .hovertext {
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 4px;
+    border: 0;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: normal;
+    left: 50%;
+    max-width: 300px;
+    opacity: 0;
+    padding: 8px;
+    pointer-events: none;
+    position: absolute;
+    text-align: center;
+    top: -10px;
+    transform: translate(-50%, -100%);
+    white-space: nowrap;
+    z-index: 1000;
+    transition: opacity
+}

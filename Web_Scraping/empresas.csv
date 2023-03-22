@@ -1,0 +1,501 @@
+ranking,nome,cnpj,cidade,estado,setor,faturamento
+1°,OESA COMERCIO E REPRESENTACOES S/A,81.611.931/0001-28,JARAGUA DO SUL,SC,Comércio atacadista de carnes bovinas e suínas e derivados,5000000000000.0
+2°,DMA DISTRIBUIDORA S/A,01.928.075/0001-08,BELO HORIZONTE,MG,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",5000000000000.0
+3°,ENEL DISTRIBUICAO SAO PAULO,61.695.227/0001-93,SAO PAULO,SP,Distribuição de energia elétrica,5000000000000.0
+4°,EXCELENCIA CARNES SUINAS,17.356.474/0001-73,NOVA MUTUM,MT,Frigorífico - abate de suínos,5000000000000.0
+5°,CENCOSUD,39.346.861/0350-38,SAO PAULO,SP,"Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários",5000000000000.0
+6°,NUTRIBRAS,08.090.575/0001-54,SORRISO,MT,Frigorífico - abate de suínos,5000000000000.0
+7°,DECMINAS DISTRIBUICAO E LOGISTICA S.A.,07.399.636/0001-05,CONTAGEM,MG,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",5000000000000.0
+8°,PROVAR NEGOCIOS DE VAREJO LTDA.,33.098.658/0001-37,SAO PAULO,SP,Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente,5000000000000.0
+9°,MULTI FORMATO DISTRIBUIDORA SOCIEDADE ANONIMA,10.319.375/0001-72,CONTAGEM,MG,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",5000000000000.0
+10°,COMPANHIA CANAVIEIRA DE JACAREZINHO,49.648.587/0001-39,SAO PAULO,SP,Cultivo de cana-de-açúcar,3657000000000.0
+11°,JBS S/A,02.916.265/0001-60,SAO PAULO,SP,Frigorífico - abate de bovinos,3401000000000.0
+12°,SUPERSO,23.469.125/0001-60,PAPAGAIOS,MG,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",3126000000000.0
+13°,RECREIO B.H.,01.929.665/0001-47,BELO HORIZONTE,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",3030000000000.0
+14°,VALE S.A.,33.592.510/0001-54,RIO DE JANEIRO,RJ,Extração de minério de ferro,2991000000000.0
+15°,PIF PAF,05.017.780/0001-04,BELO HORIZONTE,MG,Abate de aves,2904000000000.0
+16°,OBA HORTIFRUTI,04.972.092/0001-22,CAMPINAS,SP,Comércio varejista de hortifrutigranjeiros,2655000000000.0
+17°,SODEXO,49.930.514/0001-35,SAO PAULO,SP,Fornecimento de alimentos preparados preponderantemente para empresas,2589000000000.0
+18°,SUPERMERCADO BAHAMAS S/A,17.745.613/0001-50,JUIZ DE FORA,MG,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",2234000000000.0
+19°,NEOENERGIA COELBA,15.139.629/0001-94,SALVADOR,BA,Distribuição de energia elétrica,2022000000000.0
+20°,BRADESCO EST UNIF,60.746.948/0001-12,OSASCO,SP,"Bancos múltiplos, com carteira comercial",2003000000000.0
+21°,TRES CORACOES ALIMENTOS S.A.,63.310.411/0001-01,EUSEBIO,CE,Torrefação e moagem de café,1964000000000.0
+22°,ITAU UNIBANCO HOLDING S.A.,60.872.504/0001-23,SAO PAULO,SP,"Bancos múltiplos, sem carteira comercial",1818000000000.0
+23°,RGE,02.016.440/0001-62,SAO LEOPOLDO,RS,Distribuição de energia elétrica,1810000000000.0
+24°,SANKYU S/A,43.211.325/0001-26,BELO HORIZONTE,MG,Outras obras de instalações em construções não especificadas anteriormente,1795000000000.0
+25°,KURUMA VEICULOS -TOYOTA,00.827.783/0001-81,VITORIA,ES,"Comércio a varejo de automóveis, camionetas e utilitários novos",1780000000000.0
+26°,CARBEL SA,17.171.612/0001-40,BELO HORIZONTE,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",1764000000000.0
+27°,COMPANHIA MELHORAMENTOS NORTE DO PARANA,61.082.962/0001-21,JUSSARA,PR,Fabricação de álcool,1757000000000.0
+28°,RAIZEN S.A.,33.453.598/0001-23,RIO DE JANEIRO,RJ,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",1652000000000.0
+29°,EST UNIF,60.701.190/0001-04,SAO PAULO,SP,"Bancos múltiplos, com carteira comercial",1604000000000.0
+30°,VALORE,21.483.615/0001-96,MURIAE,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",1599000000000.0
+31°,TECCOM SERVICE S.A,47.965.556/0001-86,SAO CAETANO DO SUL,SP,Testes e análises técnicas,1594000000000.0
+32°,ATACADAO DIA A DIA,17.457.404/0001-01,BRASILIA,DF,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",1580000000000.0
+33°,LIDER B.H.,02.789.552/0001-56,BELO HORIZONTE,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",1534000000000.0
+34°,SAPORE S.A.,67.945.071/0001-38,CAMPINAS,SP,Fornecimento de alimentos preparados preponderantemente para empresas,1479000000000.0
+35°,MATERA SYSTEMS,57.040.040/0001-84,CAMPINAS,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",1380000000000.0
+36°,CI&T SOFTWARE S/A,00.609.634/0001-46,CAMPINAS,SP,Desenvolvimento de programas de computador sob encomenda,1360000000000.0
+37°,VIBRA ENERGIA S.A,34.274.233/0001-02,RIO DE JANEIRO,RJ,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",1219000000000.0
+38°,SERASA S.A.,62.173.620/0001-80,SAO PAULO,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",1202000000000.0
+39°,BANCO SANTANDER (BRASIL) S.A.,90.400.888/0001-42,SAO PAULO,SP,"Bancos múltiplos, com carteira comercial",1146000000000.0
+40°,ULTRAPAR PARTICIPACOES S/A,33.256.439/0001-39,SAO PAULO,SP,Holdings de instituições não financeiras,1132000000000.0
+41°,SAO FRANCISCO REDE DE SAUDE ASSISTENCIAL SA,37.173.123/0001-34,FORTALEZA,CE,Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências,1112000000000.0
+42°,P + G FOODS,42.067.752/0001-10,UBERLANDIA,MG,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",1041000000000.0
+43°,BRASKEM,42.150.391/0001-70,CAMACARI,BA,Fabricação de produtos petroquímicos básicos,1038000000000.0
+44°,SHELL BRASIL PETROLEO LTDA,10.456.016/0001-67,RIO DE JANEIRO,RJ,Extração de petróleo e gás natural,864000000000.0
+45°,MARFRIG,03.853.896/0001-40,SAO PAULO,SP,Frigorífico - abate de bovinos,824000000000.0
+46°,SOLFARMA COMERCIO DE PRODUTOS FARMACEUTICOS S.A.,46.054.219/0001-74,BEBEDOURO,SP,Comércio atacadista de medicamentos e drogas de uso humano,767000000000.0
+47°,METALURGICA GERDAU SOCIEDADE ANONIMA,92.690.783/0001-09,SAO PAULO,SP,"Outras sociedades de participação, exceto holdings",762000000000.0
+48°,GERDAU S.A.,33.611.500/0001-19,SAO PAULO,SP,"Produção de laminados longos de aço, exceto tubos",762000000000.0
+49°,GRUPO CARREFOUR BRASIL,75.315.333/0001-09,SAO PAULO,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",749000000000.0
+50°,SUECIA VEICULOS S.A.,02.714.977/0001-04,APARECIDA DE GOIANIA,GO,Comércio por atacado de caminhões novos e usados,693000000000.0
+51°,DUCOCO,09.426.032/0001-28,ITAPIPOCA,CE,Fabricação de outros produtos alimentícios não especificados anteriormente,683000000000.0
+52°,AMBEV S.A.,07.526.557/0001-00,SAO PAULO,SP,Fabricação de cervejas e chopes,682000000000.0
+53°,COPAVE,19.050.715/0001-87,PATOS DE MINAS,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",659000000000.0
+54°,COMPANHIA PAULISTA DE FORCA E LUZ,33.050.196/0001-88,CAMPINAS,SP,Distribuição de energia elétrica,641000000000.0
+55°,VIDALINK DO BRASIL SA,03.735.193/0001-17,SAO CAETANO DO SUL,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",639000000000.0
+56°,A ! BODYTECH PARTICIPACOES S.A,07.737.623/0001-90,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,614000000000.0
+57°,"TANGARA IMP. E EXP. S/A, TANGARA OU TANGARA FOODS",39.787.056/0001-73,BELO HORIZONTE,MG,Fabricação de laticínios,608000000000.0
+58°,ORIZON,02.533.940/0001-71,BARUERI,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",593000000000.0
+59°,RV TECNOLOGIA E SISTEMAS S.A.,05.022.353/0001-06,BELO HORIZONTE,MG,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,574000000000.0
+60°,ENEL DISTRIBUICAO RIO,33.050.071/0001-58,RIO DE JANEIRO,RJ,Distribuição de energia elétrica,571000000000.0
+61°,ESHO EMPRESA DE SERVICOS HOSPITALARES S.A.,29.435.005/0001-29,RIO DE JANEIRO,RJ,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",568000000000.0
+62°,ALESCA CERTIFICACAO TECNICA AUTOMOTIVA,34.772.345/0001-85,SAO PAULO,SP,Testes e análises técnicas,557000000000.0
+63°,REY PARTICIPACOES S/A,03.973.362/0001-57,SAO CAETANO DO SUL,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,542000000000.0
+64°,YSI PARTICIPACOES S/A,03.973.371/0001-48,SAO CAETANO DO SUL,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,542000000000.0
+65°,BCS BRASIL BUSINESS LTDA,22.669.051/0001-43,TUBARAO,SC,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",541000000000.0
+66°,BAYER S.A.,18.459.628/0001-15,SAO PAULO,SP,Fabricação de outros produtos químicos não especificados anteriormente,535000000000.0
+67°,AAG PARTICIPACOES,46.693.217/0001-25,XAXIM,SC,Holdings de instituições não financeiras,517000000000.0
+68°,JUNERGY LTDA,41.736.425/0001-40,JUNDIAI,SP,Holdings de instituições não financeiras,511000000000.0
+69°,COMPANHIA SIDERURGICA NACIONAL,33.042.730/0001-04,SAO PAULO,SP,"Produção de laminados planos de aço ao carbono, revestidos ou não",503000000000.0
+70°,COMPANHIA BRASILEIRA DE DISTRIBUICAO,47.508.411/0001-56,SAO PAULO,SP,Comércio varejista de outros produtos não especificados anteriormente,488000000000.0
+71°,GT BIOS,00.070.221/0001-36,CAETE,MG,Comércio atacadista de óleos e gorduras,485000000000.0
+72°,SALOMAO & ZOPPI MEDICINA DIAGNOSTICA,45.796.554/0001-85,SAO PAULO,SP,Laboratórios clínicos,478000000000.0
+73°,APEC FIAT,38.156.041/0001-44,BARBACENA,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",474000000000.0
+74°,SEARA ALIMENTOS LTDA,02.914.460/0112-76,SAO PAULO,SP,Serviços combinados de escritório e apoio administrativo,471000000000.0
+75°,BRF S.A.,01.838.723/0001-27,ITAJAI,SC,Abate de aves,464000000000.0
+76°,MARKA S/A VEICULOS E PECAS,18.707.422/0001-67,DIVINOPOLIS,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",456000000000.0
+77°,SABARALCOOL,76.509.611/0001-21,ENGENHEIRO BELTRAO,PR,Cultivo de cana-de-açúcar,441000000000.0
+78°,EDP SAO PAULO DISTRIBUICAO DE ENERGIA,02.302.100/0001-06,SAO PAULO,SP,Distribuição de energia elétrica,437000000000.0
+79°,TELEFONICA BRASIL S.A.,02.558.157/0001-62,SAO PAULO,SP,Serviços de telefonia fixa comutada - STFC,434000000000.0
+80°,MANTECORP FARMASA / MANTECORP SKINCARE / FEMEVITA,61.082.426/0002-07,BARUERI,SP,Fabricação de medicamentos alopáticos para uso humano,414000000000.0
+81°,ASSAI ATACADISTA,06.057.223/0001-71,RIO DE JANEIRO,RJ,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",407000000000.0
+82°,RAIZEN ENERGIA S.A,08.070.508/0001-78,SAO PAULO,SP,Fabricação de açúcar em bruto,406000000000.0
+83°,GPS LOGISTICA E GERENCIAMENTO DE RISCOS S.A.,01.000.786/0001-00,OSASCO,SP,Organização logística do transporte de carga,402000000000.0
+84°,MCV CHEVROLET,19.312.669/0001-47,CARATINGA,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",399000000000.0
+85°,SUZANO HOLDING S.A.,60.651.809/0001-05,SAO PAULO,SP,Holdings de instituições não financeiras,395000000000.0
+86°,SUZANO PAPEL E CELULOSE,16.404.287/0001-55,SALVADOR,BA,Fabricação de celulose e outras pastas para a fabricação de papel,394000000000.0
+87°,NATURA &CO HOLDING S.A.,32.785.497/0001-97,SAO PAULO,SP,Holdings de instituições não financeiras,382000000000.0
+88°,BANRISUL,92.702.067/0001-96,PORTO ALEGRE,RS,"Bancos múltiplos, com carteira comercial",380000000000.0
+89°,CPFL ENERGIA S.A.,02.429.144/0001-93,CAMPINAS,SP,Holdings de instituições não financeiras,379000000000.0
+90°,VOLKSWAGEN DO BRASIL INDUSTRIA DE VEICULOS AUTOMOTORES LTDA,59.104.422/0001-50,SAO BERNARDO DO CAMPO,SP,"Fabricação de automóveis, camionetas e utilitários",379000000000.0
+91°,DAITAN LABS OU DAITAN LABS S/A OU ENCORA,06.980.081/0001-10,CAMPINAS,SP,Desenvolvimento de programas de computador sob encomenda,374000000000.0
+92°,MILCLEAN,02.666.114/0001-09,TAUBATE,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,369000000000.0
+93°,SP SP SISTEMA DE PRESTACAO DE SERVICOS PADRONIZADOS,66.494.923/0001-55,MARILIA,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,369000000000.0
+94°,COPA ENERGIA,03.237.583/0001-67,SAO PAULO,SP,Comércio atacadista de gás liquefeito de petróleo (GLP),363000000000.0
+95°,LABI EXAMES S/A,27.579.749/0001-91,SAO PAULO,SP,Laboratórios clínicos,360000000000.0
+96°,MONTES CLAROS DIESEL SA,16.922.601/0001-91,MONTES CLAROS,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",352000000000.0
+97°,SUPERGASBRAS ENERGIA LTDA,19.791.896/0001-00,BETIM,MG,Comércio atacadista de gás liquefeito de petróleo (GLP),350000000000.0
+98°,ELETROBRAS,00.001.180/0001-26,BRASILIA,DF,Holdings de instituições não financeiras,350000000000.0
+99°,MAGAZINE LUIZA,47.960.950/0001-21,FRANCA,SP,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)",347000000000.0
+100°,CPFL - COMPANHIA PIRATININGA DE FORCA E LUZ,04.172.213/0001-51,CAMPINAS,SP,Distribuição de energia elétrica,346000000000.0
+101°,USINAS SIDERURGICAS DE MINAS GERAIS S/A. USIMINAS,60.894.730/0001-05,BELO HORIZONTE,MG,"Produção de laminados planos de aço ao carbono, revestidos ou não",344000000000.0
+102°,CENTRO MEDICO RIO PRETO S.A.,48.310.098/0001-00,SAO JOSE DO RIO PRETO,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",341000000000.0
+103°,DSM PRODUTOS NUTRICIONAIS BRASIL S.A.,56.992.951/0001-49,SAO PAULO,SP,Fabricação de alimentos para animais,332000000000.0
+104°,HOSPITAL ANTONIO PRUDENTE,12.361.267/0001-93,FORTALEZA,CE,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",327000000000.0
+105°,TAI MOTORS,09.272.047/0001-89,VITORIA,ES,"Comércio a varejo de automóveis, camionetas e utilitários novos",325000000000.0
+106°,FLEXTRONICS INTERNATIONAL TECNOLOGIA LTDA,74.404.229/0001-28,SOROCABA,SP,Fabricação de periféricos para equipamentos de informática,323000000000.0
+107°,QUEIROZ PARTICIPACOES S.A.,23.651.139/0001-09,FORTALEZA,CE,Holdings de instituições não financeiras,323000000000.0
+108°,F MARTINS ATACADISTA,38.544.763/0001-76,MONTE CARMELO,MG,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",321000000000.0
+109°,NACIONAL GAS BUTANO DISTRIBUIDORA LTDA,06.980.064/0001-82,FORTALEZA,CE,Comércio atacadista de gás liquefeito de petróleo (GLP),314000000000.0
+110°,LIQUIGAS DISTRIBUIDORA S.A.,60.886.413/0001-47,SAO PAULO,SP,Comércio atacadista de gás liquefeito de petróleo (GLP),313000000000.0
+111°,VIA S.A.,33.041.260/0652-90,SAO PAULO,SP,Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo,305000000000.0
+112°,RD STATION,13.021.784/0001-86,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,305000000000.0
+113°,M ROSENMANN JOALHEIROS,76.560.168/0001-13,ALMIRANTE TAMANDARE,PR,Comércio varejista de artigos de joalheria,300000000000.0
+114°,LATAM AIRLINES BRASIL,02.012.862/0001-60,SAO PAULO,SP,Transporte aéreo de passageiros regular,299000000000.0
+115°,ESCRITORIO MATRIZ,61.602.199/0001-12,SAO PAULO,SP,Comércio atacadista de gás liquefeito de petróleo (GLP),291000000000.0
+116°,IMPAR SERVICOS HOSPITALARES S/A,60.884.855/0001-54,SAO PAULO,SP,Outras atividades de atenção à saúde humana não especificadas anteriormente,290000000000.0
+117°,CLARO,40.432.544/0001-47,SAO PAULO,SP,Telefonia móvel celular,289000000000.0
+118°,TIVOLI ECORESORT PRAIA DO FORTE,13.250.998/0001-24,MATA DE SAO JOAO,BA,Hotéis,283000000000.0
+119°,SAUIPE S/A,00.866.577/0001-80,MATA DE SAO JOAO,BA,Hotéis,283000000000.0
+120°,EQUATORIAL ENERGIA MARANHAO,06.272.793/0001-84,SAO LUIS,MA,Distribuição de energia elétrica,279000000000.0
+121°,TREVISO GV VEICULOS S/A,22.249.080/0001-56,GOVERNADOR VALADARES,MG,Comércio por atacado de caminhões novos e usados,277000000000.0
+122°,BHD PARTICIPACOES S.A.,00.257.846/0001-01,SAO BERNARDO DO CAMPO,SP,Holdings de instituições não financeiras,270000000000.0
+123°,MAKRO ATACADISTA S.A,47.427.653/0001-15,SAO PAULO,SP,"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários",270000000000.0
+124°,MINERVA S.A.,67.620.377/0001-14,BARRETOS,SP,Fabricação de produtos de carne,261000000000.0
+125°,BR CAPITAL S/A,42.365.013/0001-04,FORTALEZA,CE,Holdings de instituições não financeiras,261000000000.0
+126°,HB PARTICIPACOES S/A,40.727.645/0001-45,FORTALEZA,CE,Holdings de instituições não financeiras,261000000000.0
+127°,SOLAR BEBIDAS S.A.,41.052.420/0001-07,FORTALEZA,CE,Holdings de instituições não financeiras,261000000000.0
+128°,ENERGISA S/A,00.864.214/0001-06,CATAGUASES,MG,Holdings de instituições não financeiras,259000000000.0
+129°,CAST INFORMATICA S/A,03.143.181/0001-01,BRASILIA,DF,Desenvolvimento de programas de computador sob encomenda,259000000000.0
+130°,MASSA FALIDA DA ALVORADA DO BEBEDOURO S/A - ACUCAR E ALCOOL,21.706.155/0001-18,GUARANESIA,MG,Fabricação de álcool,258000000000.0
+131°,DAURITI DISTRIBUIDORA,03.870.584/0001-44,JARDINOPOLIS,SP,Comércio atacadista de produtos alimentícios em geral,257000000000.0
+132°,NDB HOLDING AGRICOLA LTDA,33.680.926/0001-24,CONCEICAO DA BARRA,ES,Holdings de instituições não financeiras,256000000000.0
+133°,TENDA NEGOCIOS IMOBILIARIOS S.A,09.625.762/0001-58,SAO PAULO,SP,Construção de edifícios,256000000000.0
+134°,SAITAMA VEICULOS E PECAS S/A,07.414.120/0001-84,IPATINGA,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",254000000000.0
+135°,CONCREMAT,33.146.648/0001-20,RIO DE JANEIRO,RJ,Serviços de engenharia,250000000000.0
+136°,CARREFOUR COMERCIO E INDUSTRIA LTDA,45.543.915/0001-81,SAO PAULO,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",249000000000.0
+137°,PRAVALER S/A,04.531.065/0001-14,SAO PAULO,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",246000000000.0
+138°,COSAN S.A.,50.746.577/0001-15,SAO PAULO,SP,Holdings de instituições não financeiras,243000000000.0
+139°,TOTALENERGIES EP BRASIL LTDA.,02.461.767/0001-43,RIO DE JANEIRO,RJ,Extração de petróleo e gás natural,239000000000.0
+140°,IPIRANGA PRODUTOS DE PETROLEO S.A.,33.337.122/0001-27,RIO DE JANEIRO,RJ,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",239000000000.0
+141°,RAIA DROGASIL S/A,61.585.865/0001-51,SAO PAULO,SP,"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas",236000000000.0
+142°,LLG & NETTOS EMPRENDIMENTOS E PARTICIPACOES S/A.,10.757.600/0001-52,SAO CAETANO DO SUL,SP,"Outras sociedades de participação, exceto holdings",234000000000.0
+143°,JITTERBIT BRASIL PARTICIPACOES S.A.,43.156.995/0001-97,SAO CAETANO DO SUL,SP,"Outras sociedades de participação, exceto holdings",234000000000.0
+144°,NEOENERGIA PERNAMBUCO,10.835.932/0001-08,RECIFE,PE,Distribuição de energia elétrica,233000000000.0
+145°,DESCARPACK DESCARTAVEIS DO BRASIL LTDA,01.057.428/0001-33,SAO PAULO,SP,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",232000000000.0
+146°,WEG,84.429.695/0001-11,JARAGUA DO SUL,SC,Holdings de instituições não financeiras,228000000000.0
+147°,DOCK TECNOLOGIA S.A.,03.645.772/0001-79,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",227000000000.0
+148°,LIDER COMERCIO E INDUSTRIA S.A.,22.776.132/0001-42,MURIAE,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",225000000000.0
+149°,SPAL,61.186.888/0001-93,SAO PAULO,SP,"Comércio atacadista de cerveja, chope e refrigerante",224000000000.0
+150°,ARCELORMITTAL BRASIL S.A.,17.469.701/0001-77,BELO HORIZONTE,MG,"Produção de laminados longos de aço, exceto tubos",223000000000.0
+151°,APSEN FARMACEUTICA S/A,62.462.015/0001-29,SAO PAULO,SP,Fabricação de medicamentos alopáticos para uso humano,220000000000.0
+152°,CSN MINERACAO S.A.,08.902.291/0001-15,CONGONHAS,MG,Extração de minério de ferro,219000000000.0
+153°,GOL LINHAS AEREAS S.A.,07.575.651/0001-59,RIO DE JANEIRO,RJ,Transporte aéreo de passageiros regular,219000000000.0
+154°,CAPGEMINI,65.599.953/0001-63,BARUERI,SP,Desenvolvimento de programas de computador sob encomenda,218000000000.0
+155°,UNIDADE ADMINISTRATIVA,76.717.040/0001-10,CURITIBA,PR,Planos de saúde,217000000000.0
+156°,ITAIQUARA ALIMENTOS S.A. EM RECUPERACAO JUDICIAL,72.111.321/0001-74,TAPIRATIBA,SP,Fabricação de fermentos e leveduras,217000000000.0
+157°,EQUATORIAL ENERGIA S/A,03.220.438/0001-73,SAO LUIS,MA,Holdings de instituições não financeiras,217000000000.0
+158°,PEROLA DISTRIBUICAO E LOGISTICA S/A,06.204.131/0001-77,SAO PAULO,SP,"Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada",214000000000.0
+159°,PORTO SEGURO S/A,02.149.205/0001-69,SAO PAULO,SP,Holdings de instituições financeiras,212000000000.0
+160°,BOM JARDIM SOLAR HOLDING,42.295.924/0001-02,FORTALEZA,CE,Holdings de instituições não financeiras,210000000000.0
+161°,EOLICA ACU HOLDING S.A.,41.816.597/0001-24,FORTALEZA,CE,Holdings de instituições não financeiras,210000000000.0
+162°,EOLICA SERRA DO MATO HOLDING S.A.,41.816.576/0001-09,FORTALEZA,CE,Holdings de instituições não financeiras,210000000000.0
+163°,QAIR BRASIL PARTICIPACOES S.A.,08.666.285/0001-06,FORTALEZA,CE,Holdings de instituições não financeiras,210000000000.0
+164°,SERRA DO MATO SOLAR HOLDING,42.125.459/0001-61,FORTALEZA,CE,Holdings de instituições não financeiras,210000000000.0
+165°,WMA INVESTIMENTOS S/A,23.883.942/0001-60,FORTALEZA,CE,Holdings de instituições não financeiras,210000000000.0
+166°,BANCO MERCANTIL DO BRASIL SA,17.184.037/0001-10,BELO HORIZONTE,MG,"Bancos múltiplos, com carteira comercial",209000000000.0
+167°,CAVE VEICULOS,00.419.044/0001-50,GOIANIA,GO,"Outras sociedades de participação, exceto holdings",209000000000.0
+168°,EMBRAER S.A.,07.689.002/0001-89,SAO JOSE DOS CAMPOS,SP,Fabricação de aeronaves,206000000000.0
+169°,SAO LUIZ - UNIDADE ANALIA FRANCO,06.047.087/0001-39,SAO PAULO,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",204000000000.0
+170°,ANGLO,49.323.314/0001-14,SAO JOSE DOS CAMPOS,SP,Edição de livros,203000000000.0
+171°,HOSPITAL ANA COSTA,68.253.731/0001-82,SANTOS,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",198000000000.0
+172°,VAMOS SEMINOVOS S/A,18.163.414/0001-05,RIBEIRAO PRETO,SP,Comércio por atacado de caminhões novos e usados,198000000000.0
+173°,WIN SOLAR,48.136.988/0001-47,PALHOCA,SC,Serviços combinados de escritório e apoio administrativo,198000000000.0
+174°,BIODENTE - MATERIAIS ODONTOLOGICOS LTDA,02.649.956/0001-44,CHAPECO,SC,Comércio atacadista de produtos odontológicos,198000000000.0
+175°,TRANSPETRO,02.709.449/0001-59,RIO DE JANEIRO,RJ,Transporte dutoviário,197000000000.0
+176°,MERCEDES-BENZ DO BRASIL LTDA.,59.104.273/0001-29,SAO BERNARDO DO CAMPO,SP,Fabricação de caminhões e ônibus,194000000000.0
+177°,CONSIGAZ-DISTRIBUIDORA DE GAS LTDA,01.597.589/0002-09,BARUERI,SP,Comércio atacadista de gás liquefeito de petróleo (GLP),193000000000.0
+178°,AEC CONTACT CENTER,02.455.233/0001-04,BELO HORIZONTE,MG,Atividades de teleatendimento,192000000000.0
+179°,NATURA,71.673.990/0001-77,SAO PAULO,SP,Comércio atacadista de cosméticos e produtos de perfumaria,191000000000.0
+180°,ESCEX EDUCACAO S.A,17.765.891/0001-70,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,187000000000.0
+181°,PENSI EDUCACAO  E PARTICIPACOES SA,15.539.941/0001-75,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,185000000000.0
+182°,EDP,03.983.431/0001-03,SAO PAULO,SP,Holdings de instituições não financeiras,183000000000.0
+183°,AMERICANAS S.A.,00.776.574/0006-60,RIO DE JANEIRO,RJ,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",182000000000.0
+184°,CENTRO MEDICO IMAGEM S/A.,58.983.784/0001-03,SOROCABA,SP,"Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia",181000000000.0
+185°,ENGETEC CONSTRUCOES E MONTAGENS SA,03.852.459/0001-01,RIO DE JANEIRO,RJ,Outras obras de engenharia civil não especificadas anteriormente,180000000000.0
+186°,TAKE,04.413.729/0001-40,BELO HORIZONTE,MG,Desenvolvimento e licenciamento de programas de computador customizáveis,180000000000.0
+187°,SEPETIBA TECON S/A,02.394.276/0001-27,ITAGUAI,RJ,Atividades do Operador Portuário,178000000000.0
+188°,TECNOLAB,51.131.969/0001-32,SAO BERNARDO DO CAMPO,SP,Laboratórios clínicos,178000000000.0
+189°,TIM S A,02.421.421/0001-11,RIO DE JANEIRO,RJ,Serviços de telefonia fixa comutada - STFC,177000000000.0
+190°,UBS BB SERVICOS DE ASSESSORIA FINANCEIRA E PARTICIPACOES S.A.,11.049.895/0001-75,SAO PAULO,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",176000000000.0
+191°,ACUCAR E ALCOOL OSWALDO RIBEIRO DE MENDONCA LTDA,51.990.778/0003-98,SAO PAULO,SP,Fabricação de álcool,172000000000.0
+192°,ENERGISA-MG,19.527.639/0001-58,CATAGUASES,MG,Distribuição de energia elétrica,171000000000.0
+193°,ACELERO COMERCIO DE VEICULOS,11.884.974/0001-00,BELO HORIZONTE,MG,"Comércio a varejo de automóveis, camionetas e utilitários usados",169000000000.0
+194°,CERVEJARIA PETROPOLIS S/A,73.410.326/0001-60,RIO DE JANEIRO,RJ,Fabricação de cervejas e chopes,168000000000.0
+195°,ADAMI SA MADEIRAS,83.054.478/0001-21,CACADOR,SC,Fabricação de chapas e de embalagens de papelão ondulado,167000000000.0
+196°,CISS S.A GESTAO PARA O VAREJO,82.213.604/0001-80,DOIS VIZINHOS,PR,Desenvolvimento e licenciamento de programas de computador não customizáveis,166000000000.0
+197°,AZUL LINHAS AEREAS BRASILEIRAS S.A.,09.296.295/0001-60,BARUERI,SP,Transporte aéreo de passageiros regular,165000000000.0
+198°,NOVARTIS BIOCIENCIAS SA,56.994.502/0001-30,SAO PAULO,SP,Fabricação de medicamentos alopáticos para uso humano,165000000000.0
+199°,NEXA RECURSOS MINERAIS S.A.,42.416.651/0001-07,TRES MARIAS,MG,Produção de zinco em formas primárias,164000000000.0
+200°,RIO BRASIL TERMINAL,02.373.517/0001-51,RIO DE JANEIRO,RJ,Atividades do Operador Portuário,164000000000.0
+201°,FIASA,16.701.716/0001-56,BETIM,MG,"Fabricação de automóveis, camionetas e utilitários",163000000000.0
+202°,N.H.A.S.P.E PARTICIPACOES S/A,30.351.259/0001-48,ITAJAI,SC,Holdings de instituições não financeiras,162000000000.0
+203°,SAO LUCAS HOSPITAL RIBEIRANIA,06.260.857/0001-27,RIBEIRAO PRETO,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",159000000000.0
+204°,I-VALUE TECNOLOGIA S.A.,12.876.507/0001-92,CAMPINAS,SP,Desenvolvimento de programas de computador sob encomenda,159000000000.0
+205°,SECADOR,84.684.117/0001-21,JOINVILLE,SC,Compra e venda de imóveis próprios,158000000000.0
+206°,BIO ASSETS S.A.,44.615.071/0001-74,SAO PAULO,SP,Testes e análises técnicas,156000000000.0
+207°,CONTROLAR S.A. - EM LIQUIDACAO,01.015.086/0001-99,SAO PAULO,SP,Testes e análises técnicas,156000000000.0
+208°,COFCO INTL,06.315.338/0001-19,SAO PAULO,SP,Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente,155000000000.0
+209°,GUARANI S.A.,47.080.619/0001-17,OLIMPIA,SP,Fabricação de açúcar em bruto,155000000000.0
+210°,GRUPO MATEUS,24.990.777/0001-09,SAO LUIS,MA,Holdings de instituições não financeiras,153000000000.0
+211°,HOSPITAL VERA CRUZ S A,46.009.718/0001-40,CAMPINAS,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",152000000000.0
+212°,SINCH BR S.A,01.126.946/0001-61,SAO PAULO,SP,Serviços de telecomunicações sem fio não especificados anteriormente,151000000000.0
+213°,CDF,08.769.874/0001-10,BARUERI,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",151000000000.0
+214°,TECBAN,51.427.102/0001-29,BARUERI,SP,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet",151000000000.0
+215°,ENERGISA SE,13.017.462/0001-63,ARACAJU,SE,Distribuição de energia elétrica,151000000000.0
+216°,BH ILUMINACAO PUBLICA S.A.,24.915.546/0001-30,BELO HORIZONTE,MG,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",150000000000.0
+217°,PERFIMAX ACOS PLANOS,09.536.226/0001-86,XANXERE,SC,Fabricação de outros produtos de metal não especificados anteriormente,147000000000.0
+218°,LIGHT S/A,03.378.521/0001-75,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,145000000000.0
+219°,ALTERMED MEDICAMENTOS E MATERIAIS HOSPITALARES,00.802.002/0001-02,RIO DO SUL,SC,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",144000000000.0
+220°,VOTORAN,01.637.895/0001-32,SAO PAULO,SP,Fabricação de cimento,144000000000.0
+221°,CLIENTIS GESTAO DA QUALIDADE,12.749.143/0001-80,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",143000000000.0
+222°,SENIOR SISTEMAS,80.680.093/0001-81,BLUMENAU,SC,Desenvolvimento de programas de computador sob encomenda,142000000000.0
+223°,CORPORATIVO,07.175.725/0001-60,JARAGUA DO SUL,SC,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",142000000000.0
+224°,ALELO,04.740.876/0001-25,BARUERI,SP,"Emissão de vales-alimentação, vales-transporte e similares",141000000000.0
+225°,CENTRO MEDICO HOSPITALAR DE VILA VELHA S/A,00.410.817/0001-38,VILA VELHA,ES,Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências,141000000000.0
+226°,HOSPITAL E MATERNIDADE SANTA JOANA S/A,60.678.604/0001-13,SAO PAULO,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",141000000000.0
+227°,KASIL PARTICIPACOES LTDA,67.550.996/0001-80,SAO PAULO,SP,Holdings de instituições não financeiras,140000000000.0
+228°,CLUB MED,03.010.384/0001-11,RIO DE JANEIRO,RJ,Hotéis,139000000000.0
+229°,MANOEL COELHO VEICULOS MANHUACU S.A.,13.778.365/0001-93,MANHUACU,MG,"Comércio a varejo de automóveis, camionetas e utilitários novos",138000000000.0
+230°,PORTAL SUL HOLDING S. A,05.142.227/0001-95,TRES LAGOAS,MS,Holdings de instituições não financeiras,136000000000.0
+231°,ANHANGUERA EDUCACIONAL PARTICIPACOES S/A,04.310.392/0001-46,VALINHOS,SP,Educação superior - graduação e pós-graduação,136000000000.0
+232°,NOTRE DAME INTERMEDICA SAUDE S.A.,44.649.812/0001-38,SAO PAULO,SP,Planos de saúde,135000000000.0
+233°,ATIVY DIGITAL,33.175.360/0001-83,CAMPINAS,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",134000000000.0
+234°,ULTRASOLDA INDUSTRIA E COMERCIO S/A,61.456.158/0001-65,COTIA,SP,"Fabricação de fornos industriais, aparelhos e equipamentos não elétricos para instalações térmicas, peças e acessórios",133000000000.0
+235°,HOSPITAL NOVO ATIBAIA S/A,52.956.901/0001-55,ATIBAIA,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",133000000000.0
+236°,IOCHPE-MAXION S.A.,61.156.113/0001-75,CRUZEIRO,SP,Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,132000000000.0
+237°,MERISA S A ENGENHARIA E PLANEJAMENTO,76.633.197/0001-68,PONTA GROSSA,PR,Incorporação de empreendimentos imobiliários,132000000000.0
+238°,RAZAO DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS S/A,24.272.711/0001-83,JUNDIAI,SP,Comércio atacadista de produtos alimentícios em geral,132000000000.0
+239°,ENGIE BRASIL ENERGIA S.A.,02.474.103/0001-19,FLORIANOPOLIS,SC,Geração de energia elétrica,131000000000.0
+240°,SIMPAR,07.415.333/0001-20,SAO PAULO,SP,Holdings de instituições não financeiras,130000000000.0
+241°,DENTSCARE LTDA,05.106.945/0001-06,JOINVILLE,SC,Fabricação de materiais para medicina e odontologia,129000000000.0
+242°,EQUINOR BRASIL,04.028.583/0001-10,RIO DE JANEIRO,RJ,Extração de petróleo e gás natural,128000000000.0
+243°,BELLE MER HOTEIS E POUSADAS,33.927.815/0001-70,PORTO SEGURO,BA,Hotéis,128000000000.0
+244°,FOOD BRANDS,24.353.832/0001-50,JUNDIAI,SP,"Fabricação de especiarias, molhos, temperos e condimentos",128000000000.0
+245°,IPIRANGA AGROINDUSTRIAL S.A.,07.280.328/0001-58,IACANGA,SP,Fabricação de álcool,126000000000.0
+246°,COMERCIAL ZARAGOZA IMPORTACAO E EXPORTACAO LIMITADA,05.868.574/0001-08,SAO JOSE DOS CAMPOS,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",125000000000.0
+247°,NGC DISTRIBUIDORA DE GAS LTDA,37.351.011/0001-26,FORTALEZA,CE,Comércio atacadista de gás liquefeito de petróleo (GLP),125000000000.0
+248°,NOTRE DAME INTERMEDICA PARTICIPACOES S.A.,19.853.511/0001-84,SAO PAULO,SP,Holdings de instituições não financeiras,125000000000.0
+249°,USINA VALE DO VERDAO,02.859.452/0001-59,TURVELANDIA,GO,Fabricação de álcool,123000000000.0
+250°,BAHIANA DISTRIBUIDORA DE GAS LTDA,46.395.687/0001-02,SAO PAULO,SP,Comércio atacadista de gás liquefeito de petróleo (GLP),123000000000.0
+251°,MULTIVIDA PARTICIPACOES S/A,21.475.647/0001-40,MARINGA,PR,Holdings de instituições não financeiras,123000000000.0
+252°,CCR S.A.,02.846.056/0001-97,SAO PAULO,SP,Holdings de instituições não financeiras,122000000000.0
+253°,ANYMARKET TECHNOLOGIES,27.462.408/0001-31,MARINGA,PR,Desenvolvimento e licenciamento de programas de computador não customizáveis,121000000000.0
+254°,GM SOUTH AMERICA,59.275.792/0001-50,SAO CAETANO DO SUL,SP,"Fabricação de automóveis, camionetas e utilitários",120000000000.0
+255°,REDE INTEGRADA DE LOJAS DE CONVENIENCIA E PROXIMIDADE S.A.,26.563.652/0001-28,SAO PAULO,SP,Gestão de ativos intangíveis não financeiros,119000000000.0
+256°,QUIMICA AMPARO LTDA,43.461.789/0001-90,AMPARO,SP,Fabricação de sabões e detergentes sintéticos,119000000000.0
+257°,DISTRIBUIDORA E IMPORTADORA IRMAOS AVELINO S.A.,02.814.340/0001-81,CARAPICUIBA,SP,Comércio atacadista de produtos alimentícios em geral,118000000000.0
+258°,COMPASS GAS E ENERGIA S.A,21.389.501/0001-81,SAO PAULO,SP,Holdings de instituições não financeiras,116000000000.0
+259°,NAVARRO DISTRIBUIDORA DE MEDICAMENTOS,24.415.230/0001-80,GUARULHOS,SP,Comércio atacadista de medicamentos e drogas de uso humano,115000000000.0
+260°,WMB SUPERMERCADOS DO BRASIL LTDA.,00.063.960/0001-09,BARUERI,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",115000000000.0
+261°,YARA BRASIL FERTILIZANTES S/A,92.660.604/0001-82,PORTO ALEGRE,RS,"Fabricação de adubos e fertilizantes, exceto organo-minerais",115000000000.0
+262°,BALL,00.771.979/0001-00,RIO DE JANEIRO,RJ,Fabricação de embalagens metálicas,114000000000.0
+263°,USINA SANTA ADELIA S A,50.376.938/0001-89,JABOTICABAL,SP,Fabricação de álcool,114000000000.0
+264°,MERIDIONAL CARIACICA,00.625.711/0001-51,CARIACICA,ES,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",113000000000.0
+265°,MEDSENIOR,31.466.949/0001-05,VITORIA,ES,Planos de saúde,113000000000.0
+266°,EAC CONSULTING,42.603.677/0001-64,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",113000000000.0
+267°,SOMATORIA,01.345.823/0001-11,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",113000000000.0
+268°,USS SOLUCOES GERENCIADAS S.A.,01.979.936/0001-79,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",113000000000.0
+269°,SALESLAB SERVICOS DE MARKETING S/A,24.230.189/0001-77,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",113000000000.0
+270°,CTA PARTICIPACOES S.A,15.537.709/0001-06,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",113000000000.0
+271°,CCO COMUNICACAO INTEGRADA S A,06.913.276/0001-47,BARUERI,SP,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",113000000000.0
+272°,ENERGISA MT,03.467.321/0001-99,CUIABA,MT,Distribuição de energia elétrica,113000000000.0
+273°,UNIDADE DE ELETRODOMESTICOS,59.105.999/0001-86,SAO PAULO,SP,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios",111000000000.0
+274°,LOCALIZA RENT A CAR,16.670.085/0001-55,BELO HORIZONTE,MG,Locação de automóveis sem condutor,110000000000.0
+275°,NESTLE BRASIL LTDA.,60.409.075/0001-52,SAO PAULO,SP,Fabricação de outros produtos alimentícios não especificados anteriormente,110000000000.0
+276°,ROBERT BOSCH LIMITADA,45.990.181/0001-89,CAMPINAS,SP,Fabricação de peças e acessórios para o sistema motor de veículos automotores,110000000000.0
+277°,MULTILOG S/A,78.614.229/0001-03,ITAJAI,SC,Armazéns gerais - emissão de warrant,110000000000.0
+278°,AFFERO LAB PARTICIPACOES SA,11.472.921/0001-73,BARUERI,SP,Treinamento em desenvolvimento profissional e gerencial,110000000000.0
+279°,WMS SUPERMERCADOS DO BRASIL LTDA.,93.209.765/0001-17,PORTO ALEGRE,RS,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",109000000000.0
+280°,TENDA ATACADO,01.157.555/0001-04,GUARULHOS,SP,"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários",109000000000.0
+281°,VITORIA APART HOSPITAL S/A,02.209.094/0001-39,SERRA,ES,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",107000000000.0
+282°,ALYA CONSTRUTORA S/A,33.412.792/0001-60,RIO DE JANEIRO,RJ,Outras obras de engenharia civil não especificadas anteriormente,106000000000.0
+283°,TOTVS LARGE ENTERPRISE TECNOLOGIA S.A.,82.373.077/0001-71,SAO PAULO,SP,Desenvolvimento de programas de computador sob encomenda,106000000000.0
+284°,ALLFOOD,01.132.613/0001-45,SAO PAULO,SP,Comércio atacadista de produtos alimentícios em geral,106000000000.0
+285°,"B3 S.A. BRASIL, BOLSA, BALCAO",09.346.601/0001-25,SAO PAULO,SP,Bolsa de mercadorias e futuros,105000000000.0
+286°,V.I.,03.407.049/0001-51,SAO PAULO,SP,Holdings de instituições não financeiras,104000000000.0
+287°,GERDAU COSIGUA,07.358.761/0001-69,RIO DE JANEIRO,RJ,"Produção de laminados longos de aço, exceto tubos",104000000000.0
+288°,DIAGNOSTICOS DA AMERICA S.A .,61.486.650/0001-83,BARUERI,SP,Laboratórios clínicos,103000000000.0
+289°,VIVERE BRASIL SERVICOS E SOLUCOES S.A.,09.392.068/0001-38,SAO PAULO,SP,Desenvolvimento e licenciamento de programas de computador customizáveis,103000000000.0
+290°,EUROFARMA LABORATORIOS,61.190.096/0001-92,ITAPEVI,SP,Fabricação de medicamentos alopáticos para uso humano,102000000000.0
+291°,META SERVICOS EM INFORMATICA S/A,93.655.173/0001-29,BARUERI,SP,Consultoria em tecnologia da informação,102000000000.0
+292°,BAVARIA LTDA,04.176.513/0001-09,SAO PAULO,SP,Holdings de instituições não financeiras,102000000000.0
+293°,PELISSARI INFORMATICA SA,03.158.860/0001-46,CURITIBA,PR,Consultoria em tecnologia da informação,100000000000.0
+294°,LIGHT SERVICOS DE ELETRICIDADE S A,60.444.437/0001-46,RIO DE JANEIRO,RJ,Distribuição de energia elétrica,100000000000.0
+295°,QUALITY WELDING,02.855.701/0001-38,PAULINIA,SP,Obras de montagem industrial,100000000000.0
+296°,HOSPITAL POLICLIN,45.184.066/0001-17,SAO JOSE DOS CAMPOS,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",99000000000.0
+297°,GERDAU,17.227.422/0001-05,OURO BRANCO,MG,"Produção de laminados longos de aço, exceto tubos",99000000000.0
+298°,HEINZ BRASIL S.A.,50.955.707/0001-20,SAO PAULO,SP,"Fabricação de especiarias, molhos, temperos e condimentos",98000000000.0
+299°,NEXANS BRASIL S/A,31.860.364/0012-28,AMERICANA,SP,Comércio atacadista de material elétrico,98000000000.0
+300°,BRENCO - COMPANHIA BRASILEIRA DE ENERGIA RENOVAVEL - EM RECUPERACAO JUDICIAL,08.070.566/0001-00,SAO PAULO,SP,"Outras sociedades de participação, exceto holdings",97000000000.0
+301°,HAPVIDA PARTICIPACOES E INVESTIMENTOS S/A,05.197.443/0001-38,FORTALEZA,CE,Holdings de instituições não financeiras,97000000000.0
+302°,UNIDADE RIO VERMELHO,68.316.801/0001-02,JUNQUEIROPOLIS,SP,Fabricação de álcool,96000000000.0
+303°,''PREVENT SENIOR'',00.461.479/0001-63,SAO PAULO,SP,Planos de saúde,95000000000.0
+304°,FORD BRASIL LTDA,57.290.355/0001-80,SAO PAULO,SP,"Fabricação de automóveis, camionetas e utilitários",95000000000.0
+305°,HOSPITAL METROPOLITANO S/A,32.402.414/0001-33,SERRA,ES,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",94000000000.0
+306°,HOSPITAL SAO LUCAS,55.980.148/0001-21,RIBEIRAO PRETO,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",94000000000.0
+307°,FEMME - LABORATORIO DA MULHER,43.721.026/0001-31,SAO PAULO,SP,Atividade médica ambulatorial com recursos para realização de exames complementares,94000000000.0
+308°,SALOBO METAIS S/A,33.931.478/0001-94,RIO DE JANEIRO,RJ,"Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",93000000000.0
+309°,SUPERMERCADO SUPER LUNA S.A,71.385.637/0001-91,BETIM,MG,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",93000000000.0
+310°,BANCO SAFRA S A,58.160.789/0001-28,SAO PAULO,SP,"Bancos múltiplos, com carteira comercial",93000000000.0
+311°,USINA CENTRAL PARANA,80.539.943/0001-26,PORECATU,PR,Fabricação de açúcar em bruto,93000000000.0
+312°,IBM BRASIL INDUSTRIA MAQUINAS,33.372.251/0001-56,RIO DE JANEIRO,RJ,Comércio atacadista de equipamentos de informática,92000000000.0
+313°,CENTER NORTE,45.246.402/0001-09,SAO PAULO,SP,Corretagem no aluguel de imóveis,92000000000.0
+314°,"TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.",07.073.027/0001-53,SAO PAULO,SP,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet",91000000000.0
+315°,FORD MOTOR COMPANY BRASIL LTDA,03.470.727/0004-73,SAO PAULO,SP,"Comércio por atacado de automóveis, camionetas e utilitários novos e usados",91000000000.0
+316°,BEFLY TRAVEL,00.168.403/0001-44,SAO PAULO,SP,Holdings de instituições não financeiras,91000000000.0
+317°,ABCOLIVEIRA PARTICIPACOES LTDA,36.606.479/0001-51,SAO JOSE DOS CAMPOS,SP,Holdings de instituições não financeiras,90000000000.0
+318°,MONTEIRO DOS SANTOS GESTAO DE ATIVOS LTDA,41.421.237/0001-23,SAO JOSE DOS CAMPOS,SP,Holdings de instituições não financeiras,90000000000.0
+319°,FADEL MONTEIRO DOS SANTOS GESTAO DE ATIVOS LTDA,40.474.255/0001-00,SAO JOSE DOS CAMPOS,SP,Holdings de instituições não financeiras,90000000000.0
+320°,********,60.857.349/0001-76,LIMEIRA,SP,Fabricação de peças e acessórios para o sistema de freios de veículos automotores,90000000000.0
+321°,CAMIL ALIMENTOS S.A.,64.904.295/0001-03,SAO PAULO,SP,Beneficiamento de arroz,89000000000.0
+322°,RENNER,92.754.738/0001-62,PORTO ALEGRE,RS,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)",89000000000.0
+323°,COMPANHIA DE GAS DE SAO PAULO COMGAS,61.856.571/0001-17,SAO PAULO,SP,Distribuição de combustíveis gasosos por redes urbanas,89000000000.0
+324°,OI,76.535.764/0001-43,RIO DE JANEIRO,RJ,Serviços de telefonia fixa comutada - STFC,89000000000.0
+325°,RIO DE JANEIRO REFRESCOS LTDA,00.074.569/0001-00,RIO DE JANEIRO,RJ,"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas",88000000000.0
+326°,UNIMED CURITIBA PARTICIPACOES S/A,22.874.029/0001-35,CURITIBA,PR,Laboratórios de anatomia patológica e citológica,88000000000.0
+327°,ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A,08.174.089/0001-14,SAO PAULO,SP,Atividades de teleatendimento,87000000000.0
+328°,LINS AGROINDUSTRIAL S.A.,35.637.796/0001-72,LINS,SP,Fabricação de álcool,87000000000.0
+329°,METALPEN,27.389.881/0001-30,CARIACICA,ES,Produção de ferro-gusa,87000000000.0
+330°,CENTRO CORPORATIVO,89.086.144/0011-98,CAXIAS DO SUL,RS,Holdings de instituições não financeiras,87000000000.0
+331°,ATENTO BRASIL S/A,02.879.250/0001-79,SAO PAULO,SP,Atividades de teleatendimento,87000000000.0
+332°,SOLIS INDUSTRIA E COMERCIO DE AQUECEDOR SOLAR S.A.,97.546.724/0001-77,BIRIGUI,SP,"Fabricação de fornos industriais, aparelhos e equipamentos não elétricos para instalações térmicas, peças e acessórios",86000000000.0
+333°,BIOSEV BIOENERGIA,49.213.747/0118-28,SERTAOZINHO,SP,Fabricação de açúcar em bruto,85000000000.0
+334°,FERBRU,27.150.699/0001-22,CAMPINAS,SP,"Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo",85000000000.0
+335°,BIA,52.311.347/0001-59,MATAO,SP,"Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação",85000000000.0
+336°,MULTI-RIO OPERACOES PORTUARIAS S/A,02.877.283/0001-80,RIO DE JANEIRO,RJ,Atividades do Operador Portuário,84000000000.0
+337°,GDC ALIMENTOS S.A,02.279.324/0001-36,ITAJAI,SC,"Fabricação de conservas de peixes, crustáceos e moluscos",84000000000.0
+338°,FOREST PAPER,07.155.032/0001-05,TELEMACO BORBA,PR,"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório",84000000000.0
+339°,CEMIG GT,06.981.176/0001-58,BELO HORIZONTE,MG,Geração de energia elétrica,84000000000.0
+340°,AZUL S.A.,09.305.994/0001-29,BARUERI,SP,Holdings de instituições não financeiras,83000000000.0
+341°,VARIG LOG.,04.066.143/0001-57,SAO PAULO,SP,Transporte aéreo de carga,82000000000.0
+342°,DORI ALIMENTOS,52.123.916/0001-32,MARILIA,SP,Fabricação de outros produtos alimentícios não especificados anteriormente,82000000000.0
+343°,TOYOTA DO BRASIL LTDA,59.104.760/0001-91,SAO BERNARDO DO CAMPO,SP,Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,82000000000.0
+344°,SAMSUNG DA AMAZONIA,00.280.273/0001-37,MANAUS,AM,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",82000000000.0
+345°,DROGARIA SAO PAULO,61.412.110/0001-55,SAO PAULO,SP,"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas",82000000000.0
+346°,MEGA G ALIMENTOS,19.043.440/0001-54,SAO PAULO,SP,Comércio atacadista de produtos alimentícios em geral,81000000000.0
+347°,DEXCO S.A,97.837.181/0001-47,SAO PAULO,SP,"Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada",81000000000.0
+348°,SOMA ENGENHARIA SA,15.140.353/0001-64,SALVADOR,BA,Construção de edifícios,81000000000.0
+349°,USINA ITAJOBI LTDA - ACUCAR E ALCOOL,43.533.819/0001-27,MARAPOAMA,SP,Fabricação de álcool,81000000000.0
+350°,HAVAN S.A,79.379.491/0001-83,BRUSQUE,SC,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",80000000000.0
+351°,ANGLO AMERICAN MINERIO DE FERRO BRASIL S/A,02.359.572/0004-30,BELO HORIZONTE,MG,Extração de minério de ferro,80000000000.0
+352°,COMPANHIA BRASILEIRA DE ALUMINIO,61.409.892/0001-73,SAO PAULO,SP,Produção de alumínio e suas ligas em formas primárias,80000000000.0
+353°,IRB BRASIL RE,33.376.989/0001-91,RIO DE JANEIRO,RJ,Resseguros,80000000000.0
+354°,TREVILUB COMERCIO DE LUBRIFICANTES LTDA,72.675.028/0001-30,AMERICANA,SP,Comércio atacadista de lubrificantes,80000000000.0
+355°,COLACRIL,03.514.129/0001-06,CAMPO MOURAO,PR,"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório",80000000000.0
+356°,RUMO S.A,02.387.241/0001-60,CURITIBA,PR,Holdings de instituições não financeiras,79000000000.0
+357°,ELDORADO BRASIL,07.401.436/0002-12,SAO PAULO,SP,Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente,79000000000.0
+358°,ITAUSA S.A.,61.532.644/0001-15,SAO PAULO,SP,Holdings de instituições não financeiras,79000000000.0
+359°,SOUZA CRUZ LTDA,33.009.911/0001-39,RIO DE JANEIRO,RJ,Fabricação de cigarros,79000000000.0
+360°,MOOVE,33.000.092/0001-69,RIO DE JANEIRO,RJ,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino",79000000000.0
+361°,EMS,57.507.378/0003-65,HORTOLANDIA,SP,Fabricação de medicamentos alopáticos para uso humano,78000000000.0
+362°,SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA,01.613.433/0001-85,RIBEIRAO PRETO,SP,Planos de saúde,78000000000.0
+363°,JBS FRANGOSUL,08.199.996/0001-18,SAO PAULO,SP,Abate de aves,78000000000.0
+364°,3M DO BRASIL LTDA,45.985.371/0001-08,SUMARE,SP,Fabricação de outros produtos químicos não especificados anteriormente,78000000000.0
+365°,DATAMED LTDA,38.658.399/0001-75,BELO HORIZONTE,MG,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",78000000000.0
+366°,DELPHOS SERVICOS EMPRESARIAIS E COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA,08.288.889/0001-66,JUNDIAI,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,78000000000.0
+367°,RENAULT DO BRASIL S.A,00.913.443/0001-73,SAO JOSE DOS PINHAIS,PR,"Fabricação de automóveis, camionetas e utilitários",77000000000.0
+368°,SERTENGE,13.959.986/0001-73,SALVADOR,BA,Construção de edifícios,76000000000.0
+369°,GE HOSPITALAR,25.456.112/0001-82,BELO HORIZONTE,MG,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",76000000000.0
+370°,ALCOOLQUIMICA,11.699.378/0001-41,VITORIA DE SANTO ANTAO,PE,Fabricação de outros produtos químicos não especificados anteriormente,76000000000.0
+371°,SUPERMERCADOS BH,04.641.376/0001-36,RIBEIRAO DAS NEVES,MG,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",76000000000.0
+372°,UMOE BIOENERGY S.A.,03.445.208/0004-55,SANDOVALINA,SP,Fabricação de álcool,76000000000.0
+373°,HOSPITAL ALVORADA TAGUATINGA,08.100.676/0001-69,SAO PAULO,SP,Serviços combinados de escritório e apoio administrativo,76000000000.0
+374°,FABRICA FORTALEZA,07.206.816/0001-15,EUSEBIO,CE,Moagem de trigo e fabricação de derivados,75000000000.0
+375°,GENOM,60.665.981/0001-18,EMBU-GUACU,SP,Fabricação de medicamentos alopáticos para uso humano,75000000000.0
+376°,PAINCO INDUSTRIA E COMERCIO SOCIEDADE ANONIMA,56.563.976/0001-27,RIO DAS PEDRAS,SP,Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,75000000000.0
+377°,ERO BRASIL CARAIBA,42.509.257/0001-13,JAGUARARI,BA,"Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",75000000000.0
+378°,SDB COMERCIO DE ALIMENTOS LTDA,09.477.652/0001-96,SAO PAULO,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",74000000000.0
+379°,ALESAT COMBUSTIVEIS S.A.,23.314.594/0001-00,NATAL,RN,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",74000000000.0
+380°,TERNIUM BRASIL LTDA.,07.005.330/0001-19,RIO DE JANEIRO,RJ,Produção de semiacabados de aço,74000000000.0
+381°,TICKET SERVICOS SA,47.866.934/0001-74,SAO PAULO,SP,Operadoras de cartões de débito,74000000000.0
+382°,HELEXIA GERACAO HOLDING S.A,43.945.407/0001-02,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,73000000000.0
+383°,SUPERMERCADOS KOCH,02.831.172/0001-32,TIJUCAS,SC,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",73000000000.0
+384°,USINA ALTO ALEGRE S/A - ACUCAR E ALCOOL,48.295.562/0001-36,PRESIDENTE PRUDENTE,SP,Fabricação de açúcar em bruto,73000000000.0
+385°,PORTO VITORIA IMPORTACAO E EXPORTACAO S.A.,24.622.894/0001-10,SAO PAULO,SP,Comércio atacadista de produtos alimentícios em geral,72000000000.0
+386°,JOSE ALVES S A IMPORTACAO E EXPORTACAO,58.420.167/0001-91,SAO PAULO,SP,Comércio atacadista de produtos alimentícios em geral,72000000000.0
+387°,ACCT CONSULTORIA E DESENVOLVIMENTO,32.351.747/0001-80,ATIBAIA,SP,Desenvolvimento de programas de computador sob encomenda,72000000000.0
+388°,FOXCONN BRASIL INDUSTRIA E COMERCIO LTDA,08.285.374/0001-02,JUNDIAI,SP,Fabricação de equipamentos de informática,71000000000.0
+389°,CLINICA SAO VICENTE,31.635.857/0001-01,RIO DE JANEIRO,RJ,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",71000000000.0
+390°,SUPER MUFFATO,76.430.438/0001-71,CASCAVEL,PR,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",71000000000.0
+391°,BUNGE ALIMENTOS S/A,84.046.101/0001-93,GASPAR,SC,"Fabricação de óleos vegetais em bruto, exceto óleo de milho",71000000000.0
+392°,LABORATORIO CRISTALIA,44.734.671/0001-51,ITAPIRA,SP,Fabricação de medicamentos alopáticos para uso humano,71000000000.0
+393°,IMEDIADATA TECNOLOGIA S.A.,10.317.542/0001-46,BARUERI,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",71000000000.0
+394°,DAVITA BRASIL PARTICIPACOES E SERVICOS DE NEFROLOGIA LTDA.,23.097.104/0001-61,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,70000000000.0
+395°,CASAS PERNAMBUCANAS,61.099.834/0001-90,SAO PAULO,SP,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)",70000000000.0
+396°,GENERAL ELECTRIC DO BRASIL LTDA,33.482.241/0001-73,SAO PAULO,SP,Holdings de instituições não financeiras,69000000000.0
+397°,CREMER S.A.,82.641.325/0001-18,BLUMENAU,SC,Fabricação de materiais para medicina e odontologia,69000000000.0
+398°,CNH INDUSTRIAL BRASIL LTDA.,01.844.555/0001-82,NOVA LIMA,MG,Fabricação de caminhões e ônibus,69000000000.0
+399°,ALGAR TECNOLOGIA E CONSULTORIA S.A.,21.246.699/0001-44,UBERLANDIA,MG,Atividades de teleatendimento,69000000000.0
+400°,TV/REDE/CANAIS/G2C+GLOBO GLOBO.COM GLOBOPLAY,27.865.757/0001-02,RIO DE JANEIRO,RJ,Atividades de televisão aberta,69000000000.0
+401°,CITRAL,97.755.607/0001-13,TAQUARA,RS,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana",68000000000.0
+402°,SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A.,01.937.635/0001-82,SAO PAULO,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",68000000000.0
+403°,PK CABLES DO BRASIL INDUSTRIA E COMERCIO LTDA,01.691.944/0002-04,CAMPO ALEGRE,SC,"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",68000000000.0
+404°,INTERMEIO PAYMENT SOLUTIONS PROVIDER LTDA,23.322.675/0001-52,SAO PAULO,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",68000000000.0
+405°,PEPSICO DO BRASIL LTDA,31.565.104/0001-77,SAO PAULO,SP,Serviços combinados de escritório e apoio administrativo,68000000000.0
+406°,CONCESSIONARIA RIO PAX,20.513.991/0001-13,RIO DE JANEIRO,RJ,Gestão e manutenção de cemitérios,67000000000.0
+407°,AJINOMOTO DO BRASIL,46.344.354/0001-54,LARANJAL PAULISTA,SP,Fabricação de produtos químicos orgânicos não especificados anteriormente,67000000000.0
+408°,COINTER MATERIAL MEDICO HOSPITALAR LTDA,03.800.317/0001-09,JOINVILLE,SC,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",67000000000.0
+409°,FACCHINI,03.509.978/0001-71,GUARULHOS,SP,"Fabricação de cabines, carrocerias e reboques para caminhões",67000000000.0
+410°,TUPY S.A.,84.683.374/0003-00,JOINVILLE,SC,Fundição de ferro e aço,67000000000.0
+411°,BIOSEV S.A.,15.527.906/0001-36,SAO PAULO,SP,Fabricação de açúcar em bruto,67000000000.0
+412°,SANTOS ENERGIA PARTICIPACOES S.A.,08.685.391/0001-37,SAO PAULO,SP,Holdings de instituições não financeiras,67000000000.0
+413°,MS PARTICIPACOES SOCIETARIAS S/A,10.288.617/0001-08,SAO PAULO,SP,Holdings de instituições não financeiras,67000000000.0
+414°,SUPERMERCADOS GUANABARA,33.130.543/0045-01,NOVA IGUACU,RJ,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",66000000000.0
+415°,PIXEON MEDICAL SYSTEMS S.A. COMERCIO E DESENVOLVIMENTO DE SOFTWARE,05.662.773/0001-57,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,66000000000.0
+416°,COMPANHIA DE LOCACAO DAS AMERICAS,10.215.988/0001-60,BELO HORIZONTE,MG,Locação de automóveis sem condutor,65000000000.0
+417°,NORSA REFRIGERANTES S.A,07.196.033/0001-06,MARACANAU,CE,Fabricação de refrigerantes,65000000000.0
+418°,LEAR,01.998.585/0001-43,CACAPAVA,SP,Fabricação de bancos e estofados para veículos automotores,65000000000.0
+419°,PORTO DO ACU OPERACOES S.A.,08.807.676/0001-01,RIO DE JANEIRO,RJ,Atividades do Operador Portuário,65000000000.0
+420°,PEYRANI,01.276.156/0001-62,IBIRITE,MG,Outras obras de instalações em construções não especificadas anteriormente,65000000000.0
+421°,APTIV,00.857.758/0001-40,JAMBEIRO,SP,Serviços combinados de escritório e apoio administrativo,65000000000.0
+422°,GUARARAPES,08.402.943/0001-52,NATAL,RN,"Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida",65000000000.0
+423°,VALLOUREC SOLUCOES TUBULARES DO BRASIL S.A.,08.689.024/0002-92,JECEABA,MG,Produção de tubos de aço sem costura,64000000000.0
+424°,DIA BRASIL SOCIEDADE LIMITADA,03.476.811/0001-51,SAO PAULO,SP,Comércio varejista de outros produtos não especificados anteriormente,64000000000.0
+425°,IP MINAS,35.211.394/0001-01,RIBEIRAO DAS NEVES,MG,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",63000000000.0
+426°,REDE ENERGIA PARTICIPACOES S.A.,61.584.140/0001-49,CATAGUASES,MG,Distribuição de energia elétrica,63000000000.0
+427°,MERIDIONAL PRAIA DA COSTA,39.298.922/0001-62,VILA VELHA,ES,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",63000000000.0
+428°,LUA NOVA IND E COMERCIO DE PRODUTOS ALIMENTICIOS LTDA,62.461.140/0001-14,SAO PAULO,SP,Fabricação de produtos de panificação industrial,63000000000.0
+429°,SCHIMITD SERVICOS GERAIS LTDA.,01.711.083/0001-90,DIADEMA,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,63000000000.0
+430°,COMPANHIA SULAMERICANA DE DISTRIBUICAO,11.517.841/0001-97,MARINGA,PR,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",63000000000.0
+431°,CONSORCIO NACIONAL EMBRACON,58.113.812/0001-23,SANTANA DE PARNAIBA,SP,Administração de consórcios para aquisição de bens e direitos,63000000000.0
+432°,FRANQ,32.709.829/0001-54,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,63000000000.0
+433°,PROFARMA DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS SA,45.453.214/0001-51,RIO DE JANEIRO,RJ,Comércio atacadista de medicamentos e drogas de uso humano,63000000000.0
+434°,GPS PARTICIPACOES E EMPREENDIMENTOS S.A.,09.229.201/0001-30,SAO PAULO,SP,Holdings de instituições não financeiras,62000000000.0
+435°,SCANIA LATIN AMERICA LTDA,59.104.901/0001-76,SAO BERNARDO DO CAMPO,SP,Fabricação de caminhões e ônibus,62000000000.0
+436°,FORCA EOLICA DO BRASIL 1 S.A.,18.064.652/0001-55,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,62000000000.0
+437°,GRUPO ROLDAO S/A,05.800.256/0001-05,SAO PAULO,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",62000000000.0
+438°,H.O.S. SISTEMAS DE INFORMATICA S.A.,00.115.150/0001-40,BENTO GONCALVES,RS,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+439°,BRAXX TECNOLOGIA E SERVICOS S.A.,45.092.292/0001-78,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+440°,CLICKSUPER S.A,44.289.206/0001-59,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+441°,SLED,13.207.930/0001-62,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+442°,POUPAY+,41.519.079/0001-49,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+443°,SPRINK SEGURANCA CONTRA INCENDIO LTDA,42.515.478/0001-02,RIO DE JANEIRO,RJ,Instalação de máquinas e equipamentos industriais,62000000000.0
+444°,BYNE,09.495.768/0001-58,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+445°,EXACT S.A,21.593.012/0001-47,FLORIANOPOLIS,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,62000000000.0
+446°,VALE VERDE EMPREENDIMENTOS AGRICOLAS LTDA EM RECUPERACAO JUDICIAL,02.414.858/0001-28,CORTES,PE,Fabricação de açúcar em bruto,61000000000.0
+447°,NIBLAK PARTICIPACOES S/A,04.047.019/0001-44,SAO PAULO,SP,Holdings de instituições não financeiras,61000000000.0
+448°,NEOENERGIA RENOVAVEIS S.A.,12.227.426/0001-61,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+449°,AUTRAM AUREUM INDUSTRIA E COMERCIO SA,30.873.236/0001-01,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+450°,CALANGO 6 ENERGIA RENOVAVEL S.A.,19.560.837/0001-13,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+451°,LAGOA 1 ENERGIA RENOVAVEL S.A.,21.540.697/0001-63,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+452°,MIZHA ENERGIA PARTICIPACOES S.A.,18.634.114/0001-59,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+453°,EBX CAPITAL PARTNERS S.A.,03.629.486/0001-10,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+454°,APSA PARTICIPACOES SA,28.805.521/0001-35,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+455°,CWT - CLEAN WORLD TECHNOLOGIES S.A.,21.214.260/0001-30,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+456°,FE PARTICIPACOES S.A.,12.793.756/0001-14,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+457°,BELO MONTE PARTICIPACOES SA.,11.669.068/0001-84,RIO DE JANEIRO,RJ,Holdings de instituições não financeiras,61000000000.0
+458°,MAFRA HOSPITALAR,12.420.164/0001-57,RIBEIRAO PRETO,SP,Comércio atacadista de medicamentos e drogas de uso humano,61000000000.0
+459°,ELDORADO,05.620.523/0001-54,RIO BRILHANTE,MS,Fabricação de álcool,61000000000.0
+460°,BASF SA,48.539.407/0001-18,SAO PAULO,SP,Serviços combinados de escritório e apoio administrativo,61000000000.0
+461°,ALGAR TI / ALGAR TECH,05.510.654/0001-89,UBERLANDIA,MG,Consultoria em tecnologia da informação,61000000000.0
+462°,ANGLOGOLD ASHANTI CORREGO DO SITIO MINERACAO S.A.,18.565.382/0001-66,SANTA BARBARA,MG,Extração de minério de metais preciosos,61000000000.0
+463°,SEDE ADMINISTRATIVA DA EMPRESA,60.498.706/0001-57,SAO PAULO,SP,"Fabricação de óleos vegetais refinados, exceto óleo de milho",60000000000.0
+464°,NUTRIMENTAL SA INDUSTRIA E COMERCIO DE ALIMENTOS,76.633.890/0001-30,SAO JOSE DOS PINHAIS,PR,Fabricação de outros produtos alimentícios não especificados anteriormente,60000000000.0
+465°,GOL LINHAS AEREAS INTELIGENTES S.A.,06.164.253/0001-87,SAO PAULO,SP,Holdings de instituições não financeiras,60000000000.0
+466°,HELENPAR PARTICIPACOES,24.061.953/0001-28,TIMBO,SC,Holdings de instituições não financeiras,60000000000.0
+467°,UNITA PARTICIPACOES S/A,41.894.331/0001-08,TIMBO,SC,Holdings de instituições não financeiras,60000000000.0
+468°,MUELLER PARTICIPACOES S/A,13.267.841/0001-01,TIMBO,SC,Holdings de instituições não financeiras,60000000000.0
+469°,STEFANINI CONSULTORIA E ASSESSORIA EM INFORMATICA S.A.,58.069.360/0001-20,JAGUARIUNA,SP,Desenvolvimento de programas de computador sob encomenda,60000000000.0
+470°,ZF DO BRASIL LTDA.,59.280.685/0001-10,SOROCABA,SP,Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,60000000000.0
+471°,YAZAKI DO BRASIL,01.641.045/0001-08,TATUI,SP,"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",60000000000.0
+472°,HIPER,12.605.982/0001-24,BRUSQUE,SC,Desenvolvimento e licenciamento de programas de computador não customizáveis,60000000000.0
+473°,TRIDENT ENERGY DO BRASIL LTDA,33.639.843/0001-91,RIO DE JANEIRO,RJ,Extração de petróleo e gás natural,60000000000.0
+474°,SUPERMERCADOS MUNDIAL LTDA,33.304.981/0001-10,RIO DE JANEIRO,RJ,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",60000000000.0
+475°,ENERGISA,09.095.183/0001-40,JOAO PESSOA,PB,Distribuição de energia elétrica,60000000000.0
+476°,CENTRO ADMINISTRATIVO,61.649.810/0001-68,ARARAQUARA,SP,"Fabricação de sucos concentrados de frutas, hortaliças e legumes",59000000000.0
+477°,USINA DE ACUCAR SANTA TEREZINHA LTDA EM RECUPERACAO JUDICIAL,75.717.355/0001-03,MARINGA,PR,Armazéns gerais - emissão de warrant,59000000000.0
+478°,JGR PARTICIPACOES S.A.,08.541.033/0001-50,JAGUARIUNA,SP,"Outras sociedades de participação, exceto holdings",59000000000.0
+479°,SLC AGRICOLA S.A.,89.096.457/0001-55,PORTO ALEGRE,RS,Atividades de apoio à agricultura não especificadas anteriormente,59000000000.0
+480°,ACCORHOTELS,09.967.852/0001-27,SAO PAULO,SP,Hotéis,58000000000.0
+481°,BANCO SICOOB,02.038.232/0001-64,BRASILIA,DF,Bancos cooperativos,58000000000.0
+482°,ORMEC ENGENHARIA LTDA,29.060.647/0001-90,VOLTA REDONDA,RJ,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,58000000000.0
+483°,PDTEC S.A.,09.068.493/0001-76,BARUERI,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",58000000000.0
+484°,CLARANET TECHNOLOGY S.A.,68.400.225/0001-79,BARUERI,SP,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",58000000000.0
+485°,ZAFFARI,93.015.006/0001-13,PORTO ALEGRE,RS,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",58000000000.0
+486°,SUPER ATACADO S.A.,21.169.148/0001-24,RENASCENCA,PR,Comércio atacadista de produtos alimentícios em geral,58000000000.0
+487°,FRIGOWEBER,04.268.778/0001-37,SINOP,MT,Frigorífico - abate de suínos,57000000000.0
+488°,HYPERA PHARMA,02.932.074/0001-91,SAO PAULO,SP,Fabricação de medicamentos alopáticos para uso humano,57000000000.0
+489°,SABIN MEDICINA DIAGNOSTICA,06.788.751/0001-09,LONDRINA,PR,Laboratórios clínicos,57000000000.0
+490°,HONDA AUTOMOVEIS DO BRASIL LTDA,01.192.333/0001-22,SUMARE,SP,"Fabricação de automóveis, camionetas e utilitários",57000000000.0
+491°,SUPER MERCADO SAVEGNAGO,71.322.150/0001-60,SERTAOZINHO,SP,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",57000000000.0
+492°,ELECTROLUX DO BRASIL S/A,76.487.032/0001-25,CURITIBA,PR,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios",57000000000.0
+493°,IGESP,61.442.190/0001-91,SAO PAULO,SP,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",57000000000.0
+494°,ARCOS DOURADOS COMERCIO DE ALIMENTOS SA,42.591.651/0001-43,BARUERI,SP,"Lanchonetes, casas de chá, de sucos e similares",57000000000.0
+495°,USINA CORURIPE,12.229.415/0001-10,CORURIPE,AL,Cultivo de cana-de-açúcar,57000000000.0
+496°,UNIPAR CARBOCLORO S.A.,33.958.695/0001-78,SAO PAULO,SP,Fabricação de cloro e álcalis,57000000000.0
+497°,CURA - CENTRO DE ULTRASSONOGRAFIA E RADIOLOGIA S.A.,50.252.998/0001-90,SAO PAULO,SP,Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente,57000000000.0
+498°,MATEUS SUPERMERCADOS,03.995.515/0013-09,SAO LUIS,MA,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",57000000000.0
+499°,BG PETROLEO & GAS BRASIL LTDA,04.741.810/0001-50,RIO DE JANEIRO,RJ,Extração de petróleo e gás natural,57000000000.0
+500°,GRUPO BASE,02.183.750/0001-71,SAO PAULO,SP,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,57000000000.0
